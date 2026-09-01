@@ -42,8 +42,8 @@ The calculator then uses the monthly repayment to determine the total amount pai
 
 ### Empty State
 
-![Mortgage Calculator Preview](./assets/images/preview-empty.png)
+![Mortgage Calculator Preview](./src/assets/design/desktop-design-empty.jpg)
 
 ### Results
 
-![Mortgage Calculator Results](./assets/images/preview-results.png)
+![Mortgage Calculator Results](./src/assets/design/desktop-design-completed.jpg)
