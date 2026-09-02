@@ -8,6 +8,7 @@ Enter your mortgage details and the calculator instantly works out your **monthl
 
 * 💰 Calculate monthly mortgage repayments
 * 📊 Calculate total repayment over the mortgage term
+* ⚠️ Form validation with clear error messages for invalid or missing inputs
 * 🔄 Clear all inputs with one click
 * 📱 Fully responsive design
 * 🎨 Clean and accessible user interface
@@ -16,7 +17,7 @@ Enter your mortgage details and the calculator instantly works out your **monthl
 ## 🛠️ Built With
 
 * **HTML5** — Structure and semantic markup
-* **CSS3** — Styling, layout, and responsive design
+* **Talwind CSS** — Styling, layout, and responsive design
 * **TypeScript** — Form handling, calculations, validation, and DOM manipulation
 
 ## 🧮 How It Works
@@ -47,3 +48,4 @@ The calculator then uses the monthly repayment to determine the total amount pai
 ### Results
 
 ![Mortgage Calculator Results](./src/assets/design/desktop-design-completed.jpg)
+
