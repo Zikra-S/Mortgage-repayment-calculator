@@ -1,26 +1,26 @@
-# 🏠 Mortgage Repayment Calculator
+#  Mortgage Repayment Calculator
 
 A responsive mortgage repayment calculator built with **HTML, CSS, and TypeScript**.
 
 Enter your mortgage details and the calculator instantly works out your **monthly repayment** and **total repayment** based on the information provided.
 
-## ✨ Features
+##  Features
 
-* 💰 Calculate monthly mortgage repayments
-* 📊 Calculate total repayment over the mortgage term
-* ⚠️ Form validation with clear error messages for invalid or missing inputs
-* 🔄 Clear all inputs with one click
-* 📱 Fully responsive design
-* 🎨 Clean and accessible user interface
-* ⚡ Instant results without refreshing the page
+*  Calculate monthly mortgage repayments
+*  Calculate total repayment over the mortgage term
+*  Form validation with clear error messages for invalid or missing inputs
+*  Clear all inputs with one click
+*  Fully responsive design
+*  Clean and accessible user interface
+*  Instant results without refreshing the page
 
-## 🛠️ Built With
+##  Built With
 
 * **HTML5** — Structure and semantic markup
 * **Talwind CSS** — Styling, layout, and responsive design
 * **TypeScript** — Form handling, calculations, validation, and DOM manipulation
 
-## 🧮 How It Works
+##  How It Works
 
 The calculator uses the mortgage amount, interest rate, and mortgage term entered by the user to calculate the repayment.
 
@@ -39,7 +39,7 @@ Where:
 
 The calculator then uses the monthly repayment to determine the total amount paid over the entire mortgage term.
 
-## 📸 Preview
+##  Preview
 
 ### Empty State
 
